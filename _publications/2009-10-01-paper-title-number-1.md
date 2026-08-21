@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Belief Distortions and Lending Cyclicality: Evidence from Industry-Specialized Banks"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: jobmarket
+permalink: /publication/2026-08-01-belief-distortions-lending-cyclicality
+excerpt: 'Specialized banks grow overoptimistic about their preferred industries after stock market runups, expanding lending just before performance turns. Loans made in these windows default at rates 62 basis points higher than comparable loans from nonspecialized banks.'
+date: 2026-08-01
+venue: 'Job Market Paper'
+paperurl: '/files/daniel-jmp-2026-08.pdf'
+citation: 'Daniel, Ezra. (2026). "Belief Distortions and Lending Cyclicality: Evidence from Industry-Specialized Banks." Working paper.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+This paper studies how industry specialization affects banks' belief formation and lending over the credit cycle. I show that when a specialized bank's preferred industry experiences a stock market runup, the bank expands lending and reduces loan loss provisions without tightening loan terms, despite the fact that industry performance declines from its runup period peak in the years that follow. Loans originated under these conditions have a 62 basis point higher default rate than comparable loans made by nonspecialized banks to the same industry. Consistent with a diagnostic expectations framework, earnings call sentiment analysis reveals that specialized banks express heightened optimism toward their preferred industries during booms. The results highlight a downside of expertise in financial intermediation: specialization can amplify credit cycles by distorting beliefs.
