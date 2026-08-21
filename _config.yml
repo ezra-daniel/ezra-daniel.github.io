@@ -23,7 +23,7 @@ repository               : "edaniel459/edaniel459.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # Add a headshot to /images/ and put the filename here, e.g. "profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Ezra Daniel"
   pronouns         : # example: "she/her"  
   bio              : "Banking and behavioral finance. On the 2026-2027 job market."
